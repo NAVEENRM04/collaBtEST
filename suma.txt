@@ -1,5 +1,8 @@
+int y = add(2,3);
+int a=78;
+int b=9;
+System.out.print(a-b);
+
 public static int  add(int x,int y){
 return sum = x+y;
 }
-
-int y = add(2,3);
