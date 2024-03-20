@@ -1,1 +1,5 @@
-hjjklllllkll
+public static int  add(int x,int y){
+return sum = x+y;
+}
+
+int y = add(2,3);
